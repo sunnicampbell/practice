@@ -1,0 +1,36 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+html {
+  font-size: 16px;
+}
+
+header {
+  padding: 1rem;
+  box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.2);
+}
+
+header h1,
+header nav {
+  display: inline-block;
+  margin: 0 1rem;
+  font-size: 1.5rem;
+}
+
+main {
+  max-width: 68rem;
+  margin: 0 auto;
+}
+
+img {
+  display: block;
+  margin: 1rem auto;
+}
+
+p {
+  font-size: 2rem;
+  margin: 1rem 0;
+  padding: 0.5rem;
+}

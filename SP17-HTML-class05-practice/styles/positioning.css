@@ -1,0 +1,48 @@
+body {
+  padding: 4rem 0 0;
+}
+
+header {
+  background: #ffffff;
+  position: fixed;
+  top: 0;
+  width: 100%;
+}
+
+nav {
+  /*position: relative;
+  right: 5rem;*/
+}
+
+.card {
+  border: 1px solid #333;
+  margin: 0 auto;
+  position: relative;
+  width: 30rem;
+}
+
+.card-hero {
+  margin: 0;
+  max-width: 100%;
+  height: 10rem;
+}
+
+.card-fave {
+  position: absolute;
+  right: 2rem;
+  top: 7rem;
+}
+
+.card-fave img {
+  border-radius: 50%;
+}
+
+.card-headline {
+  font-family: 'Griffy', cursive;
+}
+
+.card-author {
+  font-weight: normal;
+  font-style: normal;
+  font-size: 0.75rem;
+}
