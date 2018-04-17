@@ -1,0 +1,16 @@
+img {
+    position: absolute;
+    top: 25px;
+    left: 25px;
+}
+.img card-hero {
+    z-index: 1;
+    width: 800px;
+    height: 700px;
+}
+.img card-fave {
+    z-index: 3;
+    width: 400px;
+    height: 200px;
+}
+
